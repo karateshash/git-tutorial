@@ -46,4 +46,8 @@ control panel > user accounts > credential manager > Windows credentials > Gener
 Next remove the Github keys.
 ```
 
+<img src="images/github-login.PNG">
+
+<img src="images/git-push-origin-master-status.PNG">
+
 
