@@ -73,4 +73,12 @@ git status
 
 <img src="images/git-status-green.PNG">
 
+```bash
+git commit -m "My first commit on Master branch"
+
+#To See the Status
+
+git status
+```
+<img src="images/git-commit.PNG">
 
