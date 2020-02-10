@@ -67,4 +67,11 @@ Click on New SSH Keys --> Add SSH Key
 
 <img src="images/add-ssh-public-key.PNG">
 
+To Check SSH Keys are working or not?
+```code
+#ssh -i /path/to/privatekey-file -T git@github.com
+ssh -i ~/.ssh/demo-c4clouds -T git@github.com
+```
+
+<img src="images/ssh-connection-check.PNG">
 
