@@ -37,7 +37,13 @@ Note: If you are getting error
 $ git push -u origin master
 remote: Permission to demo-c4clouds/first-git-repository.git denied to some-username.
 fatal: unable to access 'https://github.com/demo-c4clouds/first-git-repository.git/': The requested URL returned error: 403
-# Execute the below command
-git remote set-url origin https://github.com/demo-c4clouds/first-git-repository.git
+
+#solution
+For Windows you can find the keys here:
+
+control panel > user accounts > credential manager > Windows credentials > Generic credentials
+
+Next remove the Github keys.
 ```
+
 
