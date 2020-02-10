@@ -110,3 +110,5 @@ git checkout c4clouds-dev
 ```code
 git branch -a
 ```
+
+<img src="images/git-branch.PNG">
