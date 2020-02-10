@@ -96,4 +96,17 @@ git log
 
 [Click Here to Navigate to github.md](https://github.com/submah/git-tutorial/blob/master/github.md)
 
+### To Create a Branch 
+```code
+git branch c4clouds-dev
+```
 
+### To Checkout to a Branch
+```code
+git checkout c4clouds-dev
+```
+
+### To see lists of Branch
+```code
+git branch -a
+```
