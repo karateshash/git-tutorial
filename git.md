@@ -42,5 +42,9 @@ mkdir first-git-repository
 ```
 git init 
 ```
-
 <img src="images/git-init.PNG">
+
+>Note: After initialize you can sea a hidden folder/directory i.e .git
+```diff
+- Warning: Don't modify any file else your repository will go for a toss 
+```
