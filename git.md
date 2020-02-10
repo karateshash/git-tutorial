@@ -141,3 +141,5 @@ git rm filename.txt
 git checkout -- filename.txt
 ```
 <img src="images/git-checkout-undo.PNG">
+
+### To undo a change(s) in stage area
