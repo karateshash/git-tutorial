@@ -129,3 +129,15 @@ git diff
 ```
 
 <img src="images/git-diff.PNG">
+
+### To Remove a file
+```code
+git rm filename.txt
+```
+
+
+### To undo a change which not been publidhed to stage area
+```code
+git checkout -- filename.txt
+```
+<img src="images/git-checkout-undo.PNG">
