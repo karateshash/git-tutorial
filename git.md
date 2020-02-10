@@ -84,3 +84,16 @@ git status
 ```
 <img src="images/git-commit.PNG">
 
+To view the log(s)
+
+```bash
+git log
+```
+
+<image src="images/git-log.PNG">
+
+## Create Free GitHub Account
+
+[Click Here to Create a Free GitHub Account](https://github.com/submah/git-tutorial/blob/master/github.md)
+
+
