@@ -3,10 +3,10 @@
 ### In this Tutorial we are going to learn
   * Install Git Bash/Client
   * Configure the Client 
-  * Configure the Repository locally
-  * Create Free GitHub Account
-  * Push the local repository to GitHub 
+  * Configure the Repository locally 
   * Some Git Commands
+  * Create Free GitHub Account
+  * Push the local repository to GitHub
 
 ## Installing GitBash
 [Click Here to Download the GitBash for Windows](https://git-scm.com/download/win)
@@ -51,3 +51,10 @@ Note: After initialize you can sea a hidden folder/directory i.e .git and you ca
 ```diff
 - Warning: Don't modify any file else your repository will go for a toss 
 ```
+## Some Git Commands
+```bash
+echo "My First file on Master branch" > master.txt
+
+git status
+```
+<img src="images/git-status.PNG">
