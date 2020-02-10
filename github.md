@@ -75,3 +75,5 @@ ssh -i ~/.ssh/demo-c4clouds -T git@github.com
 
 <img src="images/ssh-connection-check.PNG">
 
+[Click Here to go to git.md](https://github.com/submah/git-tutorial/blob/master/git.md)
+
