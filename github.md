@@ -50,4 +50,11 @@ Next remove the Github keys.
 
 <img src="images/git-push-origin-master-status.PNG">
 
-
+### To connect the local to remote repository over  SSH
+Inorder to connect over SSH we need to genereate the public and private keys
+```code
+```bash
+# To Generate SSH Key Pairs
+ssh-keygen
+```
+```
