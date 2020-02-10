@@ -23,3 +23,21 @@ git remote add origin https://github.com/demo-c4clouds/first-git-repository.git
 ```
 
 <img src="images/conntct-local-to-remote-https.PNG">
+
+To verify the Remote Repository
+```bash
+git remote -v
+```
+Push to remote
+```bash
+git push -u origin master
+```
+```code
+Note: If you are getting error
+$ git push -u origin master
+remote: Permission to demo-c4clouds/first-git-repository.git denied to some-username.
+fatal: unable to access 'https://github.com/demo-c4clouds/first-git-repository.git/': The requested URL returned error: 403
+# Execute the below command
+git remote set-url origin https://github.com/demo-c4clouds/first-git-repository.git
+```
+
