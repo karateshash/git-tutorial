@@ -14,6 +14,7 @@
 Once you download please Install with the default settings.
 
 To Verify the installation 
+
 <img src="images/git-version.PNG">
 
 ## To configure the client for the first time we need to specify the UserName and the UserMailID 
