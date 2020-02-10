@@ -58,3 +58,19 @@ echo "My First file on Master branch" > master.txt
 git status
 ```
 <img src="images/git-status.PNG">
+
+Note: The file is highlighted with red colour because the file is not trackable by git.
+Inorder to track by git we have to add the file(s) to git.
+
+```bash
+git add file1.txt file2.txt
+
+#To add all the files in the directory
+git add .
+
+git status 
+```
+
+<img src="images/git-status-green.PNG">
+
+
