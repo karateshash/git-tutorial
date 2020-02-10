@@ -94,6 +94,6 @@ git log
 
 ## Create Free GitHub Account
 
-[Click Here to Create a Free GitHub Account](https://github.com/submah/git-tutorial/blob/master/github.md)
+[Click Here to Navigate to github.md](https://github.com/submah/git-tutorial/blob/master/github.md)
 
 
