@@ -52,9 +52,19 @@ Next remove the Github keys.
 
 ### To connect the local to remote repository over  SSH
 Inorder to connect over SSH we need to genereate the public and private keys
-```code
-```bash
-# To Generate SSH Key Pairs
+
+
+### To Generate SSH Key Pairs
+```
 ssh-keygen
 ```
-```
+
+Once you generate the Public and Private keys open the Public key and copy the contents. Navigate to the github account --> settings --> SSH and GPG keys.
+
+<img src="images/ssh-and-gpg-keys.PNG">
+
+Click on New SSH Keys --> Add SSH Key
+
+<img src="images/add-ssh-public-key.PNG">
+
+
