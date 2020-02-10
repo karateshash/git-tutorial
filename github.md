@@ -4,13 +4,13 @@
 
 Provide necessary information to create an Account
 
-<img src="images/create-github-account.PNG">
+<img src="images/create-github-account.png">
 
 <img src="images/github-choose-free-plan.PNG">
 
 <img src="images/github-complete-setup.PNG">
 
-<img src="images/verify-github-account.PNG>
+<img src="images/verify-github-account.png>
 
 <img src="images/create-a-repository.PNG">
 
