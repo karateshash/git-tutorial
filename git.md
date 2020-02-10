@@ -44,7 +44,10 @@ git init
 ```
 <img src="images/git-init.PNG">
 
->Note: After initialize you can sea a hidden folder/directory i.e .git
+Note: After initialize you can sea a hidden folder/directory i.e .git and you can see a default branch i.e master
+
+<img src="images/master-branch.PNG">
+
 ```diff
 - Warning: Don't modify any file else your repository will go for a toss 
 ```
