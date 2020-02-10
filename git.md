@@ -121,3 +121,11 @@ git merge c4clouds-dev
 ```
 
 <img src="images/git-merge.PNG">
+
+### To view the modification on a file 
+```code
+#Modify an existing file
+git diff
+```
+
+<img src="images/git-diff.PNG">
