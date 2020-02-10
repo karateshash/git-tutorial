@@ -112,3 +112,12 @@ git branch -a
 ```
 
 <img src="images/git-branch.PNG">
+
+### To merge c4clouds-dev to master branch
+>Note: Before merging anything to master make sure you are in master branch
+
+```code
+git merge c4clouds-dev
+```
+
+<img src="images/git-merge.PNG">
