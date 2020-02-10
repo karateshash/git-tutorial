@@ -73,6 +73,8 @@ git status
 
 <img src="images/git-status-green.PNG">
 
+To commit your changes. 
+
 ```bash
 git commit -m "My first commit on Master branch"
 
