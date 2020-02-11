@@ -143,3 +143,38 @@ git checkout -- filename.txt
 <img src="images/git-checkout-undo.PNG">
 
 ### To undo a change(s) in stage area
+```code
+git diff --staged
+git reset HEAD filename
+git status
+git checkout -- filename
+```
+
+### Restore from an earlier commit
+```code
+git log -- filename-that-to-be-restored
+git checkout commit-id -- filename
+git status
+git commit 
+```
+## Working with .gitignore
+```code
+touch mycode.tsh
+mkdir logs
+touch logs/a.log
+touch logs/b.log
+git stauts
+
+Note: git status will show both the mycode.sh and logs directory. If you want that git shuldn't pay attention to the logs then you have to creat a directory i.e. .gitignore
+
+vi .gitignore #copy and paste the below lines to the file.
+*.tsh
+logs/
+#==========
+git status
+```
+<img src="images/git-ignore.PNG">
+
+
+
+
