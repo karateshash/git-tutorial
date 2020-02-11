@@ -117,6 +117,7 @@ git branch -a
 >**Note: Before merging anything to master make sure you are in master branch**
 
 ```code
+git diff msaster..branch-name # To view the difference between master branch and the other branch
 git merge c4clouds-dev
 ```
 
@@ -174,6 +175,17 @@ logs/
 git status
 ```
 <img src="images/git-ignore.PNG">
+
+### To Delete a branch
+```code
+#Before delete any branch first check whether it's merged with master branch or not.
+git branch --merged
+
+#To Delete branch
+git branch -d branchname
+```
+
+
 
 
 
