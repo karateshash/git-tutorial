@@ -1,3 +1,6 @@
+<img src="images/c4logo.png">
+
+
 # Git and GitHub Tutorial
 
 * [git](https://github.com/submah/git-tutorial/blob/master/git.md)
