@@ -164,7 +164,7 @@ touch mycode.tsh
 mkdir logs
 touch logs/a.log
 touch logs/b.log
-git stauts
+git status
 
 Note: git status will show both the mycode.sh and logs directory. If you want that git shuldn't pay attention to the logs then you have to creat a directory i.e. .gitignore
 
